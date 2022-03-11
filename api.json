@@ -3,20 +3,21 @@
   "Server version": 1.0,
   "Active connections": 1,
   "Open threads": 13,
-  "Server CPU usage": 1.4,
-  "Server RAM usage": 41.5,
-  "Last update": "11/03/2022 20:22:54 (UTC)",
-  "Pool hashrate": "595.42 kH/s",
+  "Server CPU usage": 1.0,
+  "Server RAM usage": 41.2,
+  "Last update": "11/03/2022 20:27:55 (UTC)",
+  "Pool hashrate": "703.156 kH/s",
   "KinderByte hashrate": "0 H/s",
-  "XXHASH hashrate": "595.4 kH/s",
-  "Registered users": 2,
-  "All-time mined SEC": 0.7583967572252085,
+  "XXHASH hashrate": "703.2 kH/s",
+  "Registered users": 3,
+  "All-time mined SEC": 0.7654127753939584,
   "Current difficulty": 51,
-  "Mined blocks": 50081,
-  "Last block hash": "284c32fbc2...",
+  "Mined blocks": 50141,
+  "Last block hash": "24b97e1bff...",
   "Top 10 richest miners": [
-    "0.6065 SEC - WhiteR0aper",
-    "0.1519 SEC - Mark"
+    "0.6135 SEC - WhiteR0aper",
+    "0.1519 SEC - Mark",
+    "0.0 SEC - sharpTRANSUDO"
   ],
   "Active workers": {
     "WhiteR0aper": 1
