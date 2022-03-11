@@ -98,8 +98,8 @@
                     </p>
                 </div>
 
-                <div class="card-info">
-                    <h3>Currency Value</h3>
+                <div class="card-info " id="hashrate">
+                    <h3>Pool Hashrate</h3>
                     <p>
                         +0000
                     </p>
@@ -111,6 +111,20 @@
 
     <script>
      AOS.init();
+    </script>
+    <script>
+        function APIupdate() {
+    var servidor = "api.json"
+    $.getJSON(servidor, function(data) {
+
+        document.getElementById("hashrate").innerHTML = data["Pool hashrate"];
+        document.getElementById("ducos1hashrate").innerHTML = data["KinderByte hashrate"];
+        document.getElementById("xxhashhashrate").innerHTML = data["XXHASH hashrate"];
+        document.getElementById("registeredusers").innerHTML = data["Registered users"];
+        document.getElementById("connections").innerHTML = data["Active connections"];
+
+    });
+}
     </script>
 </body>
 </html>
