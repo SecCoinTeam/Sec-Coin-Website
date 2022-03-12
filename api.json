@@ -1,20 +1,20 @@
 {
   "Sec-Coin Server API": "github.com/revoxhere/Sec-Coin",
   "Server version": 2.5,
-  "Active connections": 6,
+  "Active connections": 4,
   "Open threads": 22,
-  "Server CPU usage": 0.5,
-  "Server RAM usage": 46.4,
-  "Last update": "12/03/2022 18:45:20 (UTC)",
+  "Server CPU usage": 2.0,
+  "Server RAM usage": 45.1,
+  "Last update": "12/03/2022 18:50:17 (UTC)",
   "Net energy usage": "0.0 W",
   "Pool hashrate": "0 H/s",
   "KinderByte hashrate": "0 H/s",
   "XXHASH hashrate": "0 H/s",
-  "Registered users": 4,
-  "All-time mined SEC": 1.1036763427002096,
-  "Current difficulty": 3,
-  "Mined blocks": 52891,
-  "Last block hash": "150d47fc0a",
+  "Registered users": 0,
+  "All-time mined SEC": 0,
+  "Current difficulty": 1,
+  "Mined blocks": 1,
+  "Last block hash": "ba29a15896",
   "Kolka": {
     "Jailed": 0,
     "Banned": 1
@@ -28,11 +28,6 @@
     "Arduino": 0,
     "Other": 0
   },
-  "Top 10 richest miners": [
-    "0.947 SEC - WhiteR0aper",
-    "0.1519 SEC - Mark",
-    "0.0048 SEC - sharpTRANSUDO",
-    "0.0 SEC - Mardok"
-  ],
+  "Top 10 richest miners": [],
   "Active workers": {}
 }
