@@ -123,7 +123,7 @@
     
     
     function DadosApi() {
-        $.getJSON('https://api.seccoin.cf/statistics', function(data) {
+        $.getJSON('api.json', function(data) {
         
 
             document.getElementById("hashrate").innerHTML = data["Pool hashrate"];
